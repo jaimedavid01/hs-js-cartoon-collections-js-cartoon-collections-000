@@ -8,8 +8,8 @@ for (var i = 0; i < dwarves.length; i++){
 function summonCaptainPlanet(planeteerCalls){
   var output = [];
    output += planeteerCalls.push(`${planeteerCalls}!`.toUpperCase());
-} return output;
-
+} {return output;
+}
 
 function longPlaneteerCalls(words) {
 }
